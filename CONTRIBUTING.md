@@ -5,7 +5,7 @@ We love pull requests. Here's a quick guide.
 Fork, then clone:
 
 ```bash
-git clone git@github.com:your-username/cloudformation-template.git
+git clone git@github.com:your-username/datadog-aws-controltower.git
 ```
 
 Test your changes to ensure the CloudFormation template can still create the required resources.
