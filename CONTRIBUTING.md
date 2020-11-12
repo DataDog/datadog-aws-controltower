@@ -12,6 +12,6 @@ Test your changes to ensure the CloudFormation template can still create the req
 
 Push to your fork and [submit a pull request][pr].
 
-[pr]: https://github.com/your-username/datadog-aws-controltower/compare/DataDog:master...master
+[pr]: https://github.com/DataDog/datadog-aws-controltower/compare
 
 At this point you're waiting on us. We may suggest some changes or improvements or alternatives.
