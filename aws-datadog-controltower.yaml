@@ -129,7 +129,7 @@ Resources:
           - Ref: DatadogApplicationKey
           - '","DdSite": "'
           - Ref: DdSite
-          - '","Permissions": "'
+          - '","BasePermissions": "'
           - Ref: Permissions
           - '","IAMRoleName": "'
           - Ref: IAMRoleName
