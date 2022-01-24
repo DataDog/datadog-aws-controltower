@@ -179,7 +179,7 @@ Resources:
           import os
           import cfnresponse
           import logging
-          from botocore.vendored import requests
+          import requests
 
           logger = logging.getLogger()
           logger.setLevel(logging.INFO)
